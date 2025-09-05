@@ -1,7 +1,8 @@
 ﻿using Shared;
 using System.ComponentModel.Design;
 
-
+var answer = string.Empty;
+var options = new List<string> { "s", "n" };
 
 do
 {
@@ -46,5 +47,8 @@ do
     {
         Console.WriteLine($"El año: {year}, No {message} biciesto");
     }
-
-} while (true);
+    do
+    {
+        answer = ConsoleExtension.GetValidOptions("¿Deseas continuar [S]í, [N]0?: ", options);
+    } while (!options.Any(x => x.Equals(answer, StringComparison.CurrentCultureIgnoreCase)));
+} while (answer!.Equals("s", StringComparison.CurrentCultureIgnoreCase));
