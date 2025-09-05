@@ -25,6 +25,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04", "04", "{016E9C88-8311-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number is a multiple of anothter", "Number is a multiple of anothter\Number is a multiple of anothter.csproj", "{843C79D6-3785-4BDA-979C-54394570C957}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05", "05", "{A9263442-4E80-47E7-8905-9942598C959F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is leapyear", "Is leapyear\Is leapyear.csproj", "{CCB63615-7E2D-43A6-AE7E-5B71468B49CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +59,10 @@ Global
 		{843C79D6-3785-4BDA-979C-54394570C957}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{843C79D6-3785-4BDA-979C-54394570C957}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{843C79D6-3785-4BDA-979C-54394570C957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB63615-7E2D-43A6-AE7E-5B71468B49CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB63615-7E2D-43A6-AE7E-5B71468B49CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB63615-7E2D-43A6-AE7E-5B71468B49CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB63615-7E2D-43A6-AE7E-5B71468B49CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,6 +74,7 @@ Global
 		{2A001E3D-BB3D-44BB-AE4F-9B88FB038468} = {06FE207D-B36C-4499-9C14-761F4A60BE63}
 		{82FCF464-25E1-4B45-9F2B-B8BE8D27A4C7} = {DDA76930-72AC-474F-96E9-49601927C098}
 		{843C79D6-3785-4BDA-979C-54394570C957} = {016E9C88-8311-4A82-A71F-C0B33865F469}
+		{CCB63615-7E2D-43A6-AE7E-5B71468B49CC} = {A9263442-4E80-47E7-8905-9942598C959F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6E969687-6F46-49C5-93DB-158638372504}
