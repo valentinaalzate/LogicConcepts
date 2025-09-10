@@ -53,6 +53,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11", "11", "{08F13C79-5FED-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportationCompany", "TransportationCompany\TransportationCompany.csproj", "{43CA8C81-5E0E-43C0-8C07-5FFF3F2C1E07}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12", "12", "{A2151514-2649-40FF-BE12-4EF5786C22A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumAndAverage", "SumAndAverage\SumAndAverage.csproj", "{0F0292B7-9FB7-4B22-A055-8E897C511DF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,10 @@ Global
 		{43CA8C81-5E0E-43C0-8C07-5FFF3F2C1E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43CA8C81-5E0E-43C0-8C07-5FFF3F2C1E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43CA8C81-5E0E-43C0-8C07-5FFF3F2C1E07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F0292B7-9FB7-4B22-A055-8E897C511DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0292B7-9FB7-4B22-A055-8E897C511DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0292B7-9FB7-4B22-A055-8E897C511DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0292B7-9FB7-4B22-A055-8E897C511DF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -129,6 +137,7 @@ Global
 		{8DFEC673-0510-44E8-B81C-9721B3A6BFC7} = {74A30F23-58DF-44AC-9E40-C0CA6CF0326F}
 		{42E43D5B-6087-47B2-94DA-AD53C105C9EF} = {D5DAB7D1-2F23-4DB5-9B0B-C818BB0550C9}
 		{43CA8C81-5E0E-43C0-8C07-5FFF3F2C1E07} = {08F13C79-5FED-430C-B646-0C8D8132E673}
+		{0F0292B7-9FB7-4B22-A055-8E897C511DF5} = {A2151514-2649-40FF-BE12-4EF5786C22A5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6E969687-6F46-49C5-93DB-158638372504}
