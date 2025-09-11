@@ -113,6 +113,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "26", "26", "{B4712711-5FFD-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialOrdenArray", "SpecialOrdenArray\SpecialOrdenArray.csproj", "{9ACCFC4E-F5BB-4213-B751-4BE9632D341F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "27", "27", "{A6CBD369-85DE-4CFA-982A-483523D30FE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromePhrases", "PalindromePhrases\PalindromePhrases.csproj", "{8E4F01D3-0645-4428-8BB6-766E2C06516F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +235,10 @@ Global
 		{9ACCFC4E-F5BB-4213-B751-4BE9632D341F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ACCFC4E-F5BB-4213-B751-4BE9632D341F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ACCFC4E-F5BB-4213-B751-4BE9632D341F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E4F01D3-0645-4428-8BB6-766E2C06516F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4F01D3-0645-4428-8BB6-766E2C06516F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4F01D3-0645-4428-8BB6-766E2C06516F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4F01D3-0645-4428-8BB6-766E2C06516F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -264,6 +272,7 @@ Global
 		{CD450E9C-A186-4103-816D-B881C99464E6} = {D5858434-F4C3-4954-8821-95F97E318803}
 		{E96086B6-0FC7-4C9B-9DB2-70192D6EE07A} = {7FF12E1A-5988-4FA8-B303-4341D77C605E}
 		{9ACCFC4E-F5BB-4213-B751-4BE9632D341F} = {B4712711-5FFD-448B-8882-730E01D27FCA}
+		{8E4F01D3-0645-4428-8BB6-766E2C06516F} = {A6CBD369-85DE-4CFA-982A-483523D30FE8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6E969687-6F46-49C5-93DB-158638372504}
